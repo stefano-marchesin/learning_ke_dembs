@@ -34,7 +34,7 @@ FLAGS = flags.parse_args()
 
 
 class Options(object):
-	"""options used by the Neural Vector Space Model (NVSM)"""
+	"""options used by the Doc2Vec model"""
 
 	def __init__(self):
 		# number of top docs
