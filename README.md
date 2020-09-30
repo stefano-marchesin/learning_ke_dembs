@@ -2,7 +2,7 @@
 
 Repository to contain code and information for: 
 <p align="center">
-<b><i>When Reproducibility goes Sideways: The Case of Knowledge-Enhanced Document Embeddings</i></b>
+<b><i>Knowledge-Enhanced Document Embeddings for IR</i></b>
  </p>
  
 ### Requirements
