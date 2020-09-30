@@ -1,11 +1,10 @@
 # When Reproducibility goes Sideways: The Case of Knowledge-Enhanced Document Embeddings
 
-Repository to contain code and information for the paper: 
+Repository to contain code and information for: 
 <p align="center">
 <b><i>When Reproducibility goes Sideways: The Case of Knowledge-Enhanced Document Embeddings</i></b>
  </p>
-Submitted to ECIR 2020 reproducibility track by S. Marchesin, G. Silvello, and M. Agosti
-
+ 
 ### Requirements
 
 - ElasticSearch 6.6
